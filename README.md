@@ -28,5 +28,5 @@ A feature-rich movie guide app, that lets you discover movies from TMDb.
 
 Raj chowdhury
 
-<img src="https://github.com/bapspatil.png" width="20%">
+<img src="https://avatars2.githubusercontent.com/u/30806882?s=460&v=4" width="20%">
 
