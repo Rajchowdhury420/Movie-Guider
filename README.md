@@ -7,8 +7,7 @@ A feature-rich movie guide app, that lets you discover movies from TMDb.
 ## Screenshots
 
 
-<img src="./design/screen2.png">&ensp;<img src="./design/screen3.png">
-<img src="./design/screen4.png">&ensp;<img src="./design/screen5.png">
+<img src="./design/screen2.png">&ensp;<img src="./design/screen3.png">&ensp;<img src="./design/screen5.png">
 
 ## Libraries Used
 
