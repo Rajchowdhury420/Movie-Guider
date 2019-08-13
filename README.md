@@ -6,8 +6,8 @@ A feature-rich movie guide app, that lets you discover movies from TMDb.
 
 ## Screenshots
 
-[!alt text](https://raw.githubusercontent.com/bapspatil/SilverScreener/master/design/screen2.png)
-[!alt text](https://raw.githubusercontent.com/bapspatil/SilverScreener/master/design/screen5.png)
+![alt text](https://raw.githubusercontent.com/bapspatil/SilverScreener/master/design/screen2.png)
+![alt text](https://raw.githubusercontent.com/bapspatil/SilverScreener/master/design/screen5.png)
 
 ## Libraries Used
 
