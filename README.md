@@ -1,0 +1,32 @@
+
+# MovieGuider
+
+A feature-rich movie guide app, that lets you discover movies from TMDb.
+
+
+## Screenshots
+
+<img src="./design/screen0.png">&ensp;<img src="./design/screen1.png">
+<img src="./design/screen2.png">&ensp;<img src="./design/screen3.png">
+<img src="./design/screen4.png">&ensp;<img src="./design/screen5.png">
+
+## Libraries Used
+
+* [Android Support Library](https://developer.android.com/topic/libraries/support-library/)
+* [Firebase](https://firebase.google.com/)
+* [Retrofit](https://github.com/square/retrofit/)
+* [Glide](https://github.com/bumptech/glide/)
+* [CookieBar2](https://github.com/AviranAbady/CookieBar2)
+* [Gson](https://github.com/google/gson/)
+* [ButterKnife](https://github.com/JakeWharton/butterknife)
+* [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators/)
+* [Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)
+* [floatingsearchview](https://github.com/arimorty/floatingsearchview)
+* [Realm Database](http://realm.io/)
+
+## Developed By
+
+Raj chowdhury
+
+<img src="https://github.com/bapspatil.png" width="20%">
+
