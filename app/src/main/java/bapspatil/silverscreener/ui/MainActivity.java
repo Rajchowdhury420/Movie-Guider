@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements MovieRecyclerView
                 .setLayoutGravity(Gravity.BOTTOM)
                 .setBackgroundColor(R.color.colorAccent)
                 .setTitleColor(R.color.colorPrimary)
-                .setTitle("App developed by Bapusaheb Patil")
+                .setTitle("App developed by Raj Chowdhury")
                 .show();
 
         dataSource = new RealmDataSource();
