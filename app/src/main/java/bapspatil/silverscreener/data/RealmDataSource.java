@@ -1,6 +1,5 @@
 package bapspatil.silverscreener.data;
 import java.util.ArrayList;
-
 import bapspatil.silverscreener.model.Movie;
 import io.realm.Realm;
 import io.realm.RealmResults;
