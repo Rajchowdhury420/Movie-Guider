@@ -1,5 +1,4 @@
 package bapspatil.silverscreener.data;
-
 import java.util.ArrayList;
 
 import bapspatil.silverscreener.model.Movie;
