@@ -39,7 +39,7 @@ public class RealmDataSource {
     public void addMovieToFavs(final Movie movie) {
         realm.executeTransaction(realm -> realm.insertOrUpdate(movie));
     }
-
+ // Delete Nodes
     public void deleteMovieFromFavs(final Movie movie) {
         realm.executeTransaction(realm -> movie.deleteFromRealm());
     }
