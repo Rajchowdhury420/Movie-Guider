@@ -27,7 +27,6 @@ A feature-rich movie guide app, that lets you discover movies from TMDb.
 
 ## Developed By
 
-
 Raj chowdhury
 
 <img src="https://avatars2.githubusercontent.com/u/30806882?s=460&v=4" width="45%">
