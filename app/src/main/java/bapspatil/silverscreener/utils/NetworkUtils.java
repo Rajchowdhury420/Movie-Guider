@@ -2,7 +2,6 @@ package bapspatil.silverscreener.utils;
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-
 import bapspatil.silverscreener.network.RetrofitAPI;
 import okhttp3.Cache;
 import okhttp3.OkHttpClient;
