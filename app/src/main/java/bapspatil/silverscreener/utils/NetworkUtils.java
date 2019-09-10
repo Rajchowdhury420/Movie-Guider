@@ -9,7 +9,6 @@ import okhttp3.Request;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-
 public class NetworkUtils {
 
     public static Boolean hasNetwork(Context context) {
