@@ -263,6 +263,7 @@ public class DetailsActivity extends AppCompatActivity implements TrailerRecycle
                 }
             }
 
+            
             @Override
             public void onFailure(Call<TMDBResponse> call, Throwable t) {
                 // Do I really have to do this?
