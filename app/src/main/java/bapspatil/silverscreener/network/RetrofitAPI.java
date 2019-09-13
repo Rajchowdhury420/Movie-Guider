@@ -1,5 +1,4 @@
 package bapspatil.silverscreener.network;
-
 import bapspatil.silverscreener.model.TMDBCreditsResponse;
 import bapspatil.silverscreener.model.TMDBDetailsResponse;
 import bapspatil.silverscreener.model.TMDBResponse;
@@ -13,7 +12,7 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 /**
- * Created by bapspatil
+ * Created by Raj chowdhury
  */
 
 public interface RetrofitAPI {
