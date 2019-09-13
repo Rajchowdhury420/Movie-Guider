@@ -17,7 +17,7 @@ import bapspatil.silverscreener.network.RetrofitAPI;
 import bapspatil.silverscreener.utils.GlideApp;
 
 /**
- * Created by bapspatil
+ * Created by Raj Chowdhury
  */
 
 public class CastRecyclerViewAdapter extends RecyclerView.Adapter<CastRecyclerViewAdapter.CastViewHolder> {
