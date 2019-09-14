@@ -4,6 +4,7 @@ import bapspatil.silverscreener.model.TMDBDetailsResponse;
 import bapspatil.silverscreener.model.TMDBResponse;
 import bapspatil.silverscreener.model.TMDBReviewResponse;
 import bapspatil.silverscreener.model.TMDBTrailerResponse;
+
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
