@@ -4,6 +4,7 @@
 
 A feature-rich movie guide app, that lets you discover movies from TMDb.
 
+
 ![alt Text](https://forthebadge.com/images/badges/built-for-android.svg) ![alt Text](https://forthebadge.com/images/badges/built-by-developers.svg)
 
 ## Screenshots
